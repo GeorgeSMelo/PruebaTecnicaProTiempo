@@ -21,8 +21,8 @@ Author: George Sebastian Melo Mendivelso.
    - Toda la pantalla principal LoginScreen se desarrolló con Jetpack Compose.
    - Muestra la información de cuantas monedas se retiran y con el menor numero de monedas que este necesite.
    - Se agregaron 1 botones y 1 OutlinedTextField:
-     * Validar versión: Valida la versión local con la versión remota del endpoint. 
-     * Login: Redirige al HomeScreen. 
+     * El OutlinedTextField: Se encarga de ingresar el monto que desee el usuario. 
+     * Retirar: Este Boton convertira ese valor en el menor nos mostrara la menor cantidad de monedas posibles que fueron retiradas. 
    - En caso de que haya ocurrido un error o se valide una cantidad de monedas que no se pueda retirar, este mostrará un mensaje. 
   
 9. Integración de librerías externas.

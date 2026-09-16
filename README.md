@@ -1,4 +1,4 @@
-# Prueba Técnica Interrapidisimo 
+# Prueba Técnica ProTiempo
 
 A continuación voy a explicar cómo desarrollé cada uno de los puntos solicitados en la Prueba Técnica de ProTiempo y cada una de las librerías o componentes que se usaron para cumplir con el reto.
 

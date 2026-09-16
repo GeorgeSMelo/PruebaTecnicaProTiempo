@@ -1,0 +1,1 @@
+const val CAJERO_SCREEN = "Cajero"
